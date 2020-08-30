@@ -9,8 +9,8 @@
 
 #define END_IDX			3
 
-#define TIME_SEEK		9
-#define TIME_READ		6
+#define TIME_SEEK		6
+#define TIME_READ		9
 #define TYPE_SEEK		46
 #define TYPE_READ		4
 #define LEN_SEEK		5
