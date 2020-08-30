@@ -1,0 +1,2 @@
+dump/proposed/txt/500000pkt.txt filter=lfs diff=lfs merge=lfs -text
+dump/proposed/pcap/500000pkt.pcap filter=lfs diff=lfs merge=lfs -text
